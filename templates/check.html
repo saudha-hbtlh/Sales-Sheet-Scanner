@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSI Calculator</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+</head>
+<body>
+    <div class="container mt-5">
+        <h1>Customer Satisfaction Index Calculator</h1>
+        <form id="csv-upload-form">
+            <div class="form-group">
+                <label for="csv_file" class="form-label">Upload CSV file:</label>
+                <input type="file" class="form-control-file" id="csv_file" name="csv_file" accept=".csv">
+                <small id="csv-file-help" class="form-text text-muted">CSV file should have columns: Reviews, ItemRating, ShippingRating</small>
+            </div>
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
+
+        <div id="csi-result" class="mt-3">
+            <h2>Customer Satisfaction Index:</h2>
+            <p id="csi-value">-</p>
+            <p id="csi-message">-</p>
+        </div>
+    </div>
+
+    <!-- Include jQuery library -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+    <script>
+        $(document).ready(function() {
+            $("#csv-upload-form").submit(function(event) {
+                event.preventDefault();
+                var formData = new FormData(this);
+                $.ajax({
+                    type: "POST",
+                    url: "http://127.0.0.3:5002/index",
+                    data: formData,
+                    processData: false,
+                    contentType: false,
+                    success: function(response) {
+                        var csiValue = response.csi;
+                        var csiMessage = "";
+                        if (csiValue > 0) {
+                            csiMessage = "This Product is Fit to Sell";
+                        } else if (csiValue < 0) {
+                            csiMessage = "This Product is Not Fit to Sell";
+                        } else {
+                            csiMessage = "Neutral";
+                        }
+                        $("#csi-value").text(csiValue); // Display CSI value
+                        $("#csi-message").text(csiMessage); // Display CSI message
+                    },
+                    error: function(xhr, status, error) {
+                        alert("An error occurred: " + error);
+                    }
+                });
+            });
+        });
+    </script>
+</body>
+</html>
