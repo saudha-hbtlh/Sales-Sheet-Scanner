@@ -56,3 +56,23 @@ Subsequently, the application employs sentiment analysis techniques to gauge the
 Finally, leveraging the processed data and sentiment analysis results, the app calculates the overall Customer Satisfaction Index (CSI) value, providing insights into customers' satisfaction levels with the products or services. 
 
 Through these four key components, the Flask app facilitates comprehensive data handling and analysis, empowering users to gain valuable insights into customer sentiments and satisfaction.
+
+
+### 📊 — CSI Value Calculation
+
+Importance Scores:
+The importance_scores dictionary assigns weights to different aspects of customer satisfaction. In this case, the importance scores are assigned to 'ItemRating', 'ShippingRating', and 'roberta_compound', with values of 0.4, 0.2, and 0.4 respectively. These scores represent the relative importance of each aspect in determining overall customer satisfaction.
+
+Weighted Satisfaction Scores:
+The weighted_satisfaction_scores dictionary is calculated by multiplying the satisfaction scores for each aspect by their respective importance scores. This results in a weighted satisfaction score for each aspect. For example, if the satisfaction score for 'ItemRating' is 0.8 and its importance score is 0.4, the weighted satisfaction score for 'ItemRating' would be 0.8 * 0.4 = 0.32.
+
+Customer Satisfaction Index (CSI):
+The CSI is calculated by taking the sum of the weighted satisfaction scores and dividing it by the sum of the importance scores. This normalization step ensures that the CSI remains within the range of 0 to 1, where 0 represents the lowest level of satisfaction and 1 represents the highest level of satisfaction.
+
+Normalization:
+After calculating the CSI, it is then normalized to ensure it falls within the range of 0 to 1. This is achieved by using the max and min functions to clamp the CSI value within the specified range.
+
+Printing CSI Value:
+Finally, the calculated CSI value is printed to the console for display or further processing.
+
+In summary, the CSI is a weighted average of satisfaction scores for different aspects, where the weights are determined by the importance of each aspect. This allows businesses to assess overall customer satisfaction in a structured and quantitative manner.
