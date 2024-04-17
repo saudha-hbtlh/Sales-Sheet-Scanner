@@ -1,0 +1,599 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.2:5001
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.2:5001
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 690-652-802
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\panel\\pane\\echarts.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\panel\\pane\\deckgl.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\panel\\pane\\ipywidget.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\panel\\pane\\holoviews.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\panel\\pane\\plot.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\panel\\pane\\equation.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\panel\\pane\\vizzu.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\panel\\pane\\perspective.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\panel\\pane\\streamz.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\panel\\pane\\alert.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\panel\\pane\\plotly.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\panel\\pane\\media.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\panel\\pane\\__init__.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 690-652-802
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\regex\\_regex_core.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.2:5001
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 690-652-802
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\sympy\\integrals\\rubi\\rules\\inverse_trig.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 690-652-802
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\torch\\futures\\__init__.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 690-652-802
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\torch\\monitor\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\torch\\package\\glob_group.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\torch\\package\\package_importer.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\torch\\package\\importer.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\torch\\package\\file_structure_representation.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\torch\\package\\_mock.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\torch\\package\\_directory_reader.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\torch\\package\\_digraph.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\torch\\package\\_stdlib.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\torch\\package\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\torch\\package\\_package_pickler.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\torch\\package\\_importlib.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\torch\\package\\_mangling.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\torch\\package\\_package_unpickler.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\torch\\package\\package_exporter.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\torch\\package\\find_file_dependencies.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\torch\\package\\analyze\\trace_dependencies.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\torch\\package\\analyze\\find_first_use_of_broken_modules.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\torch\\package\\analyze\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\torch\\package\\analyze\\is_from_package.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\torch\\special\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\torch\\testing\\_creation.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\torch\\testing\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\torch\\testing\\_comparison.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 690-652-802
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pandas\\_typing.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pandas\\_version.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pandas\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pandas\\testing.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pandas\\conftest.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pandas\\io\\orc.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pandas\\io\\parquet.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pandas\\io\\html.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pandas\\io\\stata.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pandas\\io\\gbq.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pandas\\io\\feather_format.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pandas\\io\\api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pandas\\io\\_util.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pandas\\io\\spss.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pandas\\io\\xml.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pandas\\io\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pandas\\io\\clipboards.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pandas\\io\\common.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 690-652-802
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\graph_objs\\carpet\\_font.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\graph_objs\\carpet\\_stream.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\graph_objs\\carpet\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\graph_objs\\carpet\\_aaxis.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\graph_objs\\carpet\\_baxis.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\graph_objs\\carpet\\_legendgrouptitle.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\graph_objs\\carpet\\aaxis\\_title.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\graph_objs\\carpet\\aaxis\\_tickfont.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\graph_objs\\carpet\\aaxis\\_tickformatstop.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\graph_objs\\carpet\\aaxis\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\graph_objs\\carpet\\aaxis\\title\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\graph_objs\\carpet\\aaxis\\title\\_font.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\graph_objs\\carpet\\baxis\\_title.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\graph_objs\\carpet\\baxis\\_tickfont.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\graph_objs\\carpet\\baxis\\_tickformatstop.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\graph_objs\\carpet\\baxis\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\graph_objs\\carpet\\baxis\\title\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\graph_objs\\carpet\\baxis\\title\\_font.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\graph_objs\\carpet\\legendgrouptitle\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\graph_objs\\carpet\\legendgrouptitle\\_font.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\graph_objs\\funnel\\_connector.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\graph_objs\\funnel\\_hoverlabel.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\graph_objs\\funnel\\_stream.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\graph_objs\\funnel\\_marker.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\graph_objs\\funnel\\_insidetextfont.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\graph_objs\\funnel\\_outsidetextfont.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\graph_objs\\funnel\\_legendgrouptitle.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\graph_objs\\funnel\\_textfont.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\graph_objs\\funnel\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\graph_objs\\funnel\\marker\\_colorbar.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\graph_objs\\funnel\\marker\\_line.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\graph_objs\\funnel\\marker\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\graph_objs\\funnel\\marker\\colorbar\\_title.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\graph_objs\\funnel\\marker\\colorbar\\_tickfont.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\graph_objs\\funnel\\marker\\colorbar\\_tickformatstop.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\graph_objs\\funnel\\marker\\colorbar\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\graph_objs\\funnel\\marker\\colorbar\\title\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\graph_objs\\funnel\\marker\\colorbar\\title\\_font.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\graph_objs\\funnel\\connector\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\graph_objs\\funnel\\connector\\_line.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\graph_objs\\funnel\\hoverlabel\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\graph_objs\\funnel\\hoverlabel\\_font.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\graph_objs\\funnel\\legendgrouptitle\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\graph_objs\\funnel\\legendgrouptitle\\_font.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\graph_objs\\icicle\\_hoverlabel.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\graph_objs\\icicle\\_tiling.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\graph_objs\\icicle\\_stream.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\graph_objs\\icicle\\_marker.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\graph_objs\\icicle\\_insidetextfont.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\graph_objs\\icicle\\_outsidetextfont.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\graph_objs\\icicle\\_root.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\graph_objs\\icicle\\_legendgrouptitle.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\graph_objs\\icicle\\_leaf.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\graph_objs\\icicle\\_textfont.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\graph_objs\\icicle\\_domain.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\graph_objs\\icicle\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\graph_objs\\icicle\\_pathbar.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\graph_objs\\icicle\\marker\\_colorbar.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 690-652-802
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\carpet\\baxis\\tickformatstop\\_name.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\carpet\\baxis\\tickformatstop\\_templateitemname.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\carpet\\stream\\_maxpoints.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\carpet\\stream\\_token.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\carpet\\stream\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\carpet\\legendgrouptitle\\_font.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\carpet\\legendgrouptitle\\_text.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\carpet\\legendgrouptitle\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\carpet\\legendgrouptitle\\font\\_family.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\carpet\\legendgrouptitle\\font\\_size.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 690-652-802
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\contour\\colorbar\\title\\font\\_size.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\contour\\colorbar\\title\\font\\_color.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\contour\\colorbar\\title\\font\\__init__.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 690-652-802
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\choropleth\\hoverlabel\\_bgcolorsrc.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\choropleth\\hoverlabel\\_align.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\choropleth\\hoverlabel\\font\\_family.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\choropleth\\hoverlabel\\font\\_size.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\choropleth\\hoverlabel\\font\\_color.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\choropleth\\hoverlabel\\font\\_sizesrc.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\choropleth\\hoverlabel\\font\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\choropleth\\hoverlabel\\font\\_colorsrc.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\choropleth\\hoverlabel\\font\\_familysrc.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\choropleth\\unselected\\_marker.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\choropleth\\unselected\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\choropleth\\unselected\\marker\\_opacity.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\choropleth\\unselected\\marker\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\choropleth\\legendgrouptitle\\_font.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\choropleth\\legendgrouptitle\\_text.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\choropleth\\legendgrouptitle\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\choropleth\\legendgrouptitle\\font\\_family.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\choropleth\\legendgrouptitle\\font\\_size.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\choropleth\\legendgrouptitle\\font\\_color.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\choropleth\\legendgrouptitle\\font\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\funnelarea\\_ids.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\funnelarea\\_stream.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\funnelarea\\_hoverinfo.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\funnelarea\\_textpositionsrc.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\funnelarea\\_metasrc.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\funnelarea\\_hovertext.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\funnelarea\\_customdata.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\funnelarea\\_hovertextsrc.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\funnelarea\\_label0.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\funnelarea\\_customdatasrc.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\funnelarea\\_labelssrc.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\funnelarea\\_meta.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\funnelarea\\_uirevision.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\funnelarea\\_legendgrouptitle.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\funnelarea\\_showlegend.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\funnelarea\\_legendgroup.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\funnelarea\\_legendrank.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\funnelarea\\_hovertemplatesrc.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\funnelarea\\_uid.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\funnelarea\\_texttemplatesrc.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\funnelarea\\_insidetextfont.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\funnelarea\\_dlabel.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\funnelarea\\_values.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\funnelarea\\_baseratio.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\funnelarea\\_textfont.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\funnelarea\\_labels.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\funnelarea\\_text.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\funnelarea\\_texttemplate.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\funnelarea\\_textinfo.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\funnelarea\\_idssrc.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\funnelarea\\_textsrc.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\funnelarea\\_aspectratio.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\funnelarea\\_hoverlabel.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\funnelarea\\_marker.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\funnelarea\\_hovertemplate.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\funnelarea\\_name.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\funnelarea\\_textposition.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\funnelarea\\_opacity.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\funnelarea\\_valuessrc.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\funnelarea\\_domain.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\funnelarea\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\funnelarea\\_scalegroup.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\funnelarea\\_title.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\funnelarea\\_hoverinfosrc.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\funnelarea\\_visible.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\funnelarea\\title\\_position.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\funnelarea\\title\\_font.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\funnelarea\\title\\_text.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\funnelarea\\title\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\funnelarea\\title\\font\\_family.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\funnelarea\\title\\font\\_size.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\funnelarea\\title\\font\\_color.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\funnelarea\\title\\font\\_sizesrc.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\funnelarea\\title\\font\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\funnelarea\\title\\font\\_colorsrc.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\funnelarea\\title\\font\\_familysrc.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\funnelarea\\domain\\_column.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\funnelarea\\domain\\_y.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\funnelarea\\domain\\_x.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\funnelarea\\domain\\_row.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\funnelarea\\domain\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\funnelarea\\marker\\_line.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\funnelarea\\marker\\_colors.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\funnelarea\\marker\\_colorssrc.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\funnelarea\\marker\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\funnelarea\\marker\\line\\_width.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\funnelarea\\marker\\line\\_widthsrc.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\funnelarea\\marker\\line\\_colorsrc.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\funnelarea\\marker\\line\\_color.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\funnelarea\\marker\\line\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\funnelarea\\stream\\_maxpoints.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\funnelarea\\stream\\_token.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\funnelarea\\stream\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\funnelarea\\textfont\\_family.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\funnelarea\\textfont\\_size.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\funnelarea\\textfont\\_color.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\funnelarea\\textfont\\_sizesrc.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\funnelarea\\textfont\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\plotly\\validators\\funnelarea\\textfont\\_colorsrc.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 690-652-802
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pyasn1\\codec\\ber\\encoder.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pyasn1\\codec\\ber\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pyasn1\\codec\\cer\\decoder.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 690-652-802
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\spyder\\plugins\\plots\\api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\spyder\\plugins\\plots\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\spyder\\plugins\\plots\\plugin.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\spyder\\plugins\\plots\\widgets\\figurebrowser.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\spyder\\plugins\\plots\\widgets\\main_widget.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\spyder\\plugins\\plots\\widgets\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\spyder\\plugins\\tours\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\spyder\\plugins\\tours\\plugin.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\spyder\\plugins\\tours\\container.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\spyder\\plugins\\tours\\api.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\spyder\\plugins\\tours\\widgets.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\spyder\\plugins\\tours\\tours.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\spyder\\plugins\\editor\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\spyder\\plugins\\editor\\plugin.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\spyder\\plugins\\editor\\confpage.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\spyder\\plugins\\editor\\api\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\spyder\\plugins\\editor\\api\\decoration.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 690-652-802
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\astropy\\config\\affiliated.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\astropy\\config\\configuration.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\astropy\\config\\paths.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\astropy\\config\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\astropy\\config\\tests\\test_configs.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\astropy\\extern\\_strptime.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\astropy\\extern\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\astropy\\extern\\ply\\ctokens.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\astropy\\extern\\ply\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\astropy\\extern\\ply\\cpp.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\astropy\\extern\\ply\\ygen.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\astropy\\extern\\ply\\lex.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\astropy\\extern\\ply\\yacc.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 690-652-802
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pyarrow\\parquet\\core.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pyarrow\\parquet\\encryption.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pyarrow\\parquet\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pyarrow\\vendored\\version.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pyarrow\\vendored\\docscrape.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pyarrow\\vendored\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pyarrow\\interchange\\from_dataframe.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pyarrow\\interchange\\buffer.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pyarrow\\interchange\\column.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pyarrow\\interchange\\dataframe.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pyarrow\\interchange\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pyquery\\cssselectpatch.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pyquery\\pyquery.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pyquery\\openers.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pyquery\\text.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pyquery\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\scripts\\readme-gen\\readme_gen.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\seaborn\\relational.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\seaborn\\matrix.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\seaborn\\_oldcore.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\seaborn\\regression.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\seaborn\\_compat.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\seaborn\\categorical.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\seaborn\\cm.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 690-652-802
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\twisted\\python\\logfile.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\twisted\\python\\rebuild.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\twisted\\python\\util.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\twisted\\python\\threadpool.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\twisted\\python\\url.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\twisted\\python\\deprecate.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\twisted\\python\\runtime.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\twisted\\python\\usage.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\twisted\\python\\zipstream.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\twisted\\python\\sendmsg.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\twisted\\python\\systemd.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\twisted\\python\\log.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\twisted\\python\\filepath.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\twisted\\python\\failure.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\twisted\\python\\htmlizer.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\twisted\\python\\syslog.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\twisted\\python\\fakepwd.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\twisted\\python\\_tzhelper.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\twisted\\python\\text.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\twisted\\python\\monkey.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\twisted\\python\\randbytes.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\twisted\\python\\_shellcomp.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\twisted\\python\\reflect.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\twisted\\python\\release.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\twisted\\python\\modules.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\twisted\\python\\formmethod.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\twisted\\python\\versions.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\twisted\\python\\lockfile.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\twisted\\python\\threadable.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\twisted\\python\\context.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\twisted\\python\\urlpath.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\twisted\\python\\constants.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\twisted\\python\\shortcut.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\twisted\\python\\_url.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\twisted\\python\\compat.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\twisted\\python\\zippath.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\twisted\\python\\components.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\twisted\\python\\_textattributes.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\twisted\\python\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\twisted\\python\\_appdirs.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\twisted\\python\\_release.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\twisted\\python\\win32.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\twisted\\python\\_inotify.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\twisted\\python\\roots.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\twisted\\python\\test\\test_release.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\twisted\\python\\test\\test_appdirs.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\twisted\\python\\test\\test_win32.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\twisted\\python\\test\\test_sendmsg.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\twisted\\python\\test\\test_shellcomp.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 690-652-802
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\colorcet\\plotting.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\colorcet\\version.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\colorcet\\__main__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\colorcet\\sineramp.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\colorcet\\tests\\test_bokeh.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\colorcet\\tests\\test_matplotlib.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\colorcet\\tests\\test_aliases.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\colorcet\\examples\\assets\\write_named.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\datasets\\combine.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\datasets\\streaming.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\datasets\\table.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\datasets\\iterable_dataset.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\datasets\\distributed.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\datasets\\config.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\datasets\\search.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\datasets\\metric.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 690-652-802
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pygments\\lexers\\devicetree.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pygments\\lexers\\testing.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pygments\\lexers\\srcinfo.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pygments\\lexers\\hdl.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pygments\\lexers\\oberon.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pygments\\lexers\\idl.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pygments\\lexers\\actionscript.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pygments\\lexers\\minecraft.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pygments\\lexers\\functional.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pygments\\lexers\\_sourcemod_builtins.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pygments\\lexers\\rust.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pygments\\lexers\\amdgpu.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pygments\\lexers\\fantom.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pygments\\lexers\\lilypond.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pygments\\lexers\\sophia.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pygments\\lexers\\dylan.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pygments\\lexers\\forth.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pygments\\lexers\\cplint.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pygments\\lexers\\x10.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pygments\\lexers\\_vbscript_builtins.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pygments\\lexers\\verification.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pygments\\lexers\\rnc.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pygments\\lexers\\installers.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pygments\\lexers\\webassembly.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pygments\\lexers\\_vim_builtins.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pygments\\lexers\\html.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pygments\\lexers\\_qlik_builtins.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pygments\\lexers\\erlang.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pygments\\lexers\\algebra.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pygments\\lexers\\slash.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pygments\\lexers\\d.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pygments\\lexers\\scdoc.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pygments\\lexers\\cddl.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pygments\\lexers\\varnish.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pygments\\lexers\\_stata_builtins.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 690-652-802
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\holoviews\\plotting\\mixins.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\holoviews\\plotting\\plot.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\holoviews\\plotting\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\holoviews\\plotting\\renderer.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\holoviews\\plotting\\util.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\holoviews\\plotting\\links.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\holoviews\\plotting\\mpl\\hex_tiles.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\holoviews\\plotting\\mpl\\plot.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\holoviews\\plotting\\mpl\\chart3d.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\holoviews\\plotting\\mpl\\annotation.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\holoviews\\plotting\\mpl\\chart.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\holoviews\\plotting\\mpl\\util.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\holoviews\\plotting\\mpl\\sankey.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\holoviews\\plotting\\mpl\\path.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\holoviews\\plotting\\mpl\\renderer.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\holoviews\\plotting\\mpl\\geometry.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\holoviews\\plotting\\mpl\\heatmap.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\holoviews\\plotting\\mpl\\element.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\holoviews\\plotting\\mpl\\graphs.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\holoviews\\plotting\\mpl\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\holoviews\\plotting\\mpl\\stats.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\holoviews\\plotting\\mpl\\raster.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\holoviews\\plotting\\mpl\\tabular.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\holoviews\\plotting\\bokeh\\hex_tiles.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\holoviews\\plotting\\bokeh\\plot.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\holoviews\\plotting\\bokeh\\callbacks.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 690-652-802
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pythonwin\\pywin\\framework\\winout.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pythonwin\\pywin\\framework\\toolmenu.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pythonwin\\pywin\\framework\\help.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pythonwin\\pywin\\framework\\intpydde.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pythonwin\\pywin\\framework\\intpyapp.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pythonwin\\pywin\\framework\\window.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pythonwin\\pywin\\framework\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pythonwin\\pywin\\framework\\dbgcommands.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pythonwin\\pywin\\framework\\stdin.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pythonwin\\pywin\\framework\\interact.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pythonwin\\pywin\\framework\\dlgappcore.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pythonwin\\pywin\\framework\\bitmap.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pythonwin\\pywin\\framework\\mdi_pychecker.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pythonwin\\pywin\\framework\\cmdline.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pythonwin\\pywin\\framework\\startup.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pythonwin\\pywin\\framework\\sgrepmdi.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pythonwin\\pywin\\framework\\editor\\ModuleBrowser.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pythonwin\\pywin\\framework\\editor\\editor.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pythonwin\\pywin\\framework\\editor\\configui.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pythonwin\\pywin\\framework\\editor\\frame.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pythonwin\\pywin\\framework\\editor\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pythonwin\\pywin\\framework\\editor\\vss.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pythonwin\\pywin\\framework\\editor\\template.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pythonwin\\pywin\\framework\\editor\\document.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pythonwin\\pywin\\framework\\editor\\color\\coloreditor.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pythonwin\\pywin\\scintilla\\IDLEenvironment.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pythonwin\\pywin\\scintilla\\formatter.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pythonwin\\pywin\\scintilla\\view.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pythonwin\\pywin\\scintilla\\control.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pythonwin\\pywin\\scintilla\\find.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pythonwin\\pywin\\scintilla\\config.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\pythonwin\\pywin\\scintilla\\keycodes.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 690-652-802
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\setuptools\\_distutils\\version.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\setuptools\\_distutils\\filelist.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\setuptools\\_distutils\\unixccompiler.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 690-652-802
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\tensorflow\\python\\autograph\\pyct\\static_analysis\\liveness.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 690-652-802
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\tensorflow\\compiler\\jit\\ops\\xla_ops.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\tensorflow\\compiler\\xla\\xla_data_pb2.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\tensorflow\\compiler\\xla\\service\\hlo_pb2.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\tensorflow\\compiler\\mlir\\lite\\debug\\debug_options_pb2.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\tensorflow\\compiler\\mlir\\stablehlo\\stablehlo.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\tensorflow\\compiler\\mlir\\tensorflow\\gen_mlir_passthrough_op.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\tensorflow\\compiler\\mlir\\quantization\\stablehlo\\quantization_options_pb2.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\tensorflow\\compiler\\mlir\\quantization\\tensorflow\\quantization_options_pb2.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\tensorflow\\compiler\\mlir\\quantization\\tensorflow\\exported_model_pb2.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\tensorflow\\compiler\\mlir\\quantization\\tensorflow\\python\\quantize_model.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 690-652-802
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\statsmodels\\nonparametric\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\statsmodels\\nonparametric\\bandwidths.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 690-652-802
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\transformers\\models\\realm\\tokenization_realm.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\transformers\\models\\realm\\tokenization_realm_fast.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\transformers\\models\\realm\\modeling_realm.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\transformers\\models\\realm\\configuration_realm.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\transformers\\models\\realm\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\transformers\\models\\realm\\retrieval_realm.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\transformers\\models\\sew_d\\modeling_sew_d.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\transformers\\models\\sew_d\\configuration_sew_d.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\transformers\\models\\sew_d\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\transformers\\models\\sew_d\\convert_sew_d_original_pytorch_checkpoint_to_pytorch.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\transformers\\models\\tapas\\tokenization_tapas.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\transformers\\models\\tapas\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\transformers\\models\\tapas\\convert_tapas_original_tf_checkpoint_to_pytorch.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\transformers\\models\\tapas\\configuration_tapas.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\transformers\\models\\tapas\\modeling_tf_tapas.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\transformers\\models\\tapas\\modeling_tapas.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\transformers\\models\\trocr\\modeling_trocr.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\transformers\\models\\trocr\\processing_trocr.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\transformers\\models\\trocr\\configuration_trocr.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\transformers\\models\\trocr\\convert_trocr_unilm_to_pytorch.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\transformers\\models\\trocr\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\transformers\\models\\vivit\\configuration_vivit.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\transformers\\models\\vivit\\modeling_vivit.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\transformers\\models\\vivit\\image_processing_vivit.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\transformers\\models\\vivit\\convert_vivit_flax_to_pytorch.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\transformers\\models\\vivit\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\transformers\\models\\wavlm\\modeling_wavlm.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\transformers\\models\\wavlm\\configuration_wavlm.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 690-652-802
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\prompt_toolkit\\layout\\menus.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\prompt_toolkit\\layout\\dimension.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 690-652-802
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\conda_package_streaming\\s3.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\conda_package_streaming\\lazy_wheel.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\conda_package_streaming\\transmute.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\conda_package_streaming\\exceptions.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\conda_package_streaming\\package_streaming.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\conda_package_streaming\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\conda_package_streaming\\extract.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\site-packages\\conda_package_streaming\\url.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 690-652-802
+INFO:werkzeug: * Detected change in 'C:\\Users\\user\\anaconda3\\Lib\\ctypes\\__init__.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 690-652-802
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.2:5001
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 690-652-802
