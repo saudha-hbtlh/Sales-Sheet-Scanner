@@ -6,19 +6,6 @@ The Sales Sheet Scanner is a Flask web application designed to help users determ
 *****
 *****
 
-## TABLE OF CONTENTS
-
-📚 — [Dependencies](https://github.com/Zernach/Airline-Price-Predictions#-dependencies)
-
-🗂 — [Files in This Repo](https://github.com/Zernach/Airline-Price-Predictions#-files-in-this-repo)
-
-0️⃣ — [Data Refining & Cleaning](https://github.com/Zernach/Airline-Price-Predictions#0%EF%B8%8F%E2%83%A3--data-refining--cleaning)
-
-1️⃣ — [Predictive Modeling](https://github.com/Zernach/Airline-Price-Predictions#2%EF%B8%8F%E2%83%A3--predictive-modeling)
-
-*****
-*****
-
 
 ## 📚 Dependencies
 To auto-install the dependencies for this project in a subshell virtual environment, the only packages you'll have to have pre-installed are `python`,'flask','flask_cors', 'pandas','transformers','re'
