@@ -41,3 +41,18 @@ I used a fancy tool called RoBERTa to understand how people feel in text, like w
 Once RoBERTa learned what to look for, I gave it some text to see how well it could guess people's feelings. I tried different sentences to see if RoBERTa could figure out if they were positive, negative, or neutral.
 
 After making sure RoBERTa worked well in Jupyter Notebook, I decided to use it in a web app made with Flask. This way, people could type in text, and RoBERTa could tell them how the words made people feel.
+
+### 2️⃣ — Web App
+
+
+I developed a Flask application with four main components to handle various aspects of data processing and analysis. 
+
+The application verifies the suitability of the provided data by ensuring it contains essential columns such as reviews, item ratings, and shipping ratings. 
+
+Once confirmed, the app proceeds to preprocess the data, correcting any errors and preparing it for analysis. 
+
+Subsequently, the application employs sentiment analysis techniques to gauge the sentiment expressed in customer reviews, determining whether they are positive, negative, or neutral. 
+
+Finally, leveraging the processed data and sentiment analysis results, the app calculates the overall Customer Satisfaction Index (CSI) value, providing insights into customers' satisfaction levels with the products or services. 
+
+Through these four key components, the Flask app facilitates comprehensive data handling and analysis, empowering users to gain valuable insights into customer sentiments and satisfaction.
