@@ -104,3 +104,40 @@ The CSI is a weighted average of three key satisfaction factors:
 | RoBERTa Compound | 40% | Captures nuanced sentiment from review text |
 
 **Formula:**
+CSI = (0.4 × ItemRating/5) + (0.2 × ShippingRating/5) + (0.4 × Normalized(RoBERTa_Compound))
+
+**Normalization Process:**
+1. Ratings are normalized to a 0-1 scale (divide by 5)
+2. RoBERTa compound scores are normalized using min-max scaling
+3. Weighted sum is calculated and clamped to [0, 1] range
+
+**Final Score Interpretation:**
+- ≥ 0.6: Product is "Fit to Sell"
+- < 0.6: Product "Needs Improvement"
+
+### Stage 4: Flask Web Application
+The entire pipeline is deployed as a user-friendly web application:
+- **File Validation:** Ensures correct CSV format and required columns
+- **Asynchronous Processing:** Handles large files without blocking the interface
+- **Error Handling:** Graceful error messages for invalid inputs
+- **Result Presentation:** Clear visualization of CSI scores and recommendations
+
+## 🛠️ Tech Stack
+
+### Backend
+| Component | Technology | Purpose |
+|-----------|------------|---------|
+| Web Framework | Flask | Server-side routing and API |
+| Data Processing | Pandas, NumPy | Data manipulation and analysis |
+| NLP Model | RoBERTa (Hugging Face) | Sentiment analysis |
+| Visualization | Matplotlib | Data exploration and plotting |
+| Development | Jupyter Notebook | Prototyping and experimentation |
+
+### Frontend
+- HTML5 for structure
+- CSS3 for styling
+- JavaScript for interactivity
+
+### Deployment
+- Local server (development)
+- Flask development server
