@@ -38,7 +38,8 @@ Upload your CSV file containing Etsy product reviews and ratings for analysis.
 *Figure 1: The main upload interface where users can select and submit their CSV file for analysis.*
 
 ### Results Dashboard
-View your CSI score, product recommendation, and detailed breakdown of satisfaction factors.
+View your CSI score
+[- **Product Status** — "Fit to Sell" (CSI ≥ 0.6) or "Needs Improvement" (CSI < 0.6) ]
 
 ![Results Dashboard](Artifacts/Screenshots/sales2.png)
 
